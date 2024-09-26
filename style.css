@@ -1,0 +1,17 @@
+        /*Todos os H2 ficarão no seguinte estilo:*/
+        h2 {
+            color: purple;
+            font-size: 30px;
+        }
+
+        #titulo-id {
+            color: tomato;
+            font-size: 25px;
+            text-align: center;
+        }
+
+        .titulo-class {
+            color: orange;
+            font-size: 20px;
+            text-align: right;
+        }
